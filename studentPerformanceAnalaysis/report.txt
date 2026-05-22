@@ -1,0 +1,20 @@
+
+STUDENT PERFORMANCE ANALYSIS REPORT
+
+1. Best Performing Student:
+Zainab with average marks 95.00
+
+2. Subject-wise Average:
+Math       77.0
+English    77.8
+Science    76.9
+dtype: float64
+
+3. Observation:
+- Higher attendance improves performance.
+- More study hours generally increase marks.
+- Class comparison shows performance differences.
+
+4. Conclusion:
+Students with better attendance and study habits
+perform better academically.
